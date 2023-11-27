@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    color: #0000FF;
+    font-size:12px ;
+    text-decoration: line-through;
+}
+
+h1 {
+    color: #008000;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+
+
+h1,h2 {
+    background-color: #D3D3D3;
+}
