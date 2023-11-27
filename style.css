@@ -3,7 +3,7 @@ body {
 }
 
 p {
-    color: #0000FF;
+
     font-size:12px ;
     text-decoration: line-through;
 }
@@ -20,8 +20,18 @@ h2 {
     text-decoration: underline;
 }
 
-
+h2, p {
+    color: darkgreen;
+}
 
 h1,h2 {
     background-color: #D3D3D3;
+}
+
+#intro {
+    border: 1px solid black;
+}
+
+.spotlight {
+    background-color: #FEFE22;
 }
