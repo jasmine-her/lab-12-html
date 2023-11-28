@@ -1,0 +1,6 @@
+- What is the first thing you want them to see when they load your site? 
+	
+	• my love of typography. Find a stunning treatment that can live on different platforms
+	
+	• a simple program that displays a message after the user does something (conditional)? Can display JS skillset
+	
